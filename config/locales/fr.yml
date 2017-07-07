@@ -1,0 +1,3 @@
+fr:
+  notice_impersonating_user: Prétend être %{user}
+  button_impersonate: Prétendre être
